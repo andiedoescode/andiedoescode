@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andiedoescode
+- 👋 Hi, I’m Andie of @andiedoescode
 - 👀 I’m learning full stack web development
 - 🌱 I’m currently working on my portfolio, Javascript, and overloading my brain with learning
 
