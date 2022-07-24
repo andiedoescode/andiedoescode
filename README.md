@@ -22,7 +22,7 @@
 - 👉 &nbsp; Ask me about the MERN stack!
 - 💼 &nbsp; Accepting new clients - check out my [portfolio](https://andreapang.netlify.app/).
 - 📫 &nbsp; Connect via any of my social media accounts.
-- 💡 &nbsp; During my downtime, I read fantasy and fiction novels, pick up new hobbies like cross stitching, and very amateurly play video games.
+- 💡 &nbsp; During my downtime, I listen to podcasts, pick up new hobbies like cross stitching, very amateurly play video games, and cook/bake.
 - 🎨 &nbsp; Illustration can be found <a href="https://storyset.com/communication">here</a>.
 
 </div>
@@ -44,4 +44,5 @@
 </td>
 </tr>
 </table>
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer" />
 </div>
