@@ -18,9 +18,9 @@
 &nbsp;
 <p>I am a versatile and detail-oriented software engineer with deep interest in ed tech and NLP. I always love learning new tech. I am looking for work or interesting projects to collaborate on, so don't hesitate to reach out.</p>
 
-- 🌱 &nbsp; Currently learning React.
+- 🌱 &nbsp; Currently learning CRUD apps with node.js, Express, and MongoDB.
 - 👉 &nbsp; Ask me about the MERN stack!
-- 💼 &nbsp; Accepting new clients - check out my [portfolio](https://andreapang.netlify.app/).
+- 💼 &nbsp; Check out my [portfolio](https://andreapang.netlify.app/). (Also accepting new clients.)
 - 📫 &nbsp; Connect via any of my social media accounts.
 - 💡 &nbsp; During my downtime, I listen to podcasts, pick up new hobbies like cross stitching, very amateurly play video games, and cook/bake.
 - 🎨 &nbsp; Illustration can be found <a href="https://storyset.com/communication">here</a>.
