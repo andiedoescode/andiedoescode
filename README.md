@@ -19,7 +19,7 @@
 <p>I am a versatile and detail-oriented software engineer with deep interest in ed tech and NLP. I always love learning new tech. I am looking for work or interesting projects to collaborate on, so don't hesitate to reach out.</p>
 
 - 👉 &nbsp; Currently working on Ledger
-- 🌱 &nbsp; Currently learning CRUD apps with node.js, Express, and MongoDB.
+- 🌱 &nbsp; Currently learning React.
 - 💼 &nbsp; Check out my [projects](https://andreapang.netlify.app/).
 - 📫 &nbsp; Connect via any of my social media accounts.
 - 💡 &nbsp; During my downtime, I listen to podcasts, pick up new hobbies like cross stitching, very amateurly play video games, and cook/bake.
