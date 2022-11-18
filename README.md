@@ -22,7 +22,7 @@
 - 🌱 &nbsp; Currently learning React.
 - 💼 &nbsp; Check out my [projects](https://andreapang.netlify.app/).
 - 📫 &nbsp; Connect via any of my social media accounts.
-- 💡 &nbsp; During my downtime, I listen to podcasts, pick up new hobbies like cross stitching, very amateurly play video games, and cook/bake.
+- 💡 &nbsp; During my downtime, I listen to podcasts, pick up new hobbies like cross stitching, very amateurly play video games, rock climbing, and cooking/baking.
 - 🎨 &nbsp; Illustration can be found <a href="https://storyset.com/communication">here</a>.
 
 </div>
