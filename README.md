@@ -18,7 +18,7 @@
 &nbsp;
 <p>I am a versatile and detail-oriented software engineer with deep interest in ed tech and NLP. I always love learning new tech. I am looking for work or interesting projects to collaborate on, so don't hesitate to reach out.</p>
 
-- 👉 &nbsp; Currently working on Ledger
+- 👉 &nbsp; Currently working on [Ledger](https://github.com/andiedoescode/ledger).
 - 🌱 &nbsp; Currently learning React.
 - 💼 &nbsp; Check out my [projects](https://andreapang.netlify.app/).
 - 📫 &nbsp; Connect via any of my social media accounts.
