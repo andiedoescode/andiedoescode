@@ -6,7 +6,7 @@
 <h3>Full stack software engineer in the Washington, D.C. metro area.</h3>
 
 <div>
-<a href="https://andreapang.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-003366?style=for-the-badge" alt="Portfolio site" /></a>
+<a href="https://www.andreapang.dev/"><img src="https://img.shields.io/badge/-Portfolio-003366?style=for-the-badge" alt="Portfolio site" /></a>
 <a href="https://www.linkedin.com/in/andreapang/"><img src="https://img.shields.io/badge/-LinkedIn-003366?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://twitter.com/andiedoescode"><img src="https://img.shields.io/badge/-Twitter-003366?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://github.com/andiedoescode"><img src="https://img.shields.io/badge/-Github-003366?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
