@@ -37,11 +37,11 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=andiedoescode&theme=vue-dark&show_icons=true&hide=stars&count_private=true">
 </a>
 </td>
-<td>
+<!-- <td>
 <a href="https://github.com/andiedoescode/andiedoescode">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andiedoescode&layout=compact&theme=vue-dark&hide=scss">
 </a>
-</td>
+</td> -->
 </tr>
 </table>
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer" />
