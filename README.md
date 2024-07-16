@@ -3,7 +3,7 @@
 <h1>Hi, I'm Andrea.</h1>
 
 <div>
-<h3>Full stack software developer in the Washington, D.C. metro area.</h3>
+<h3>Data Analyst & Software Developer in the Washington, D.C. metro area.</h3>
 
 <div>
 <a href="https://www.andreapang.dev/"><img src="https://img.shields.io/badge/-Portfolio-003366?style=for-the-badge" alt="Portfolio site" /></a>
