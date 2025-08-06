@@ -11,16 +11,13 @@
 <a href="https://github.com/andiedoescode"><img src="https://img.shields.io/badge/-Github-003366?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
-<img align="right" height="400px" src="https://user-images.githubusercontent.com/98671035/180629469-5fdb03cc-62a6-4bf6-8c59-a540aa0b48d5.gif" alt="Illustrated hands typing on laptop"/>
-
 <div align="left">
 &nbsp;
-<p>I combine technical and interpersonal skills to create solutions that improve lives. A versatile and detail-oriented software developer with an additional skillset in data analytics, I have a deep interest in ed tech and natural language processing. I'm always up to learning new tech! I am looking for work or interesting projects to collaborate on, so don't hesitate to reach out.</p>
+<p>I combine technical and interpersonal skills to create solutions that improve lives. A versatile and detail-oriented software developer with an additional skillset in data analytics, I have a deep interest in ed tech and natural language processing. I'm always up to learning new tech! I am looking for interesting projects to collaborate on, so don't hesitate to reach out.</p>
 
-- 🌱 &nbsp; Check out my [projects](https://andreapang.dev/).
+- 🌱 &nbsp; Check out some of my [projects](https://andreapang.dev/).
 - 📫 &nbsp; Connect via any of my social media accounts.
-- 💡 &nbsp; During my downtime, I travel as much as possible, listen to podcasts, pick up new hobbies like cross stitching, play video games, rock climb, and nerd out at a weekly D&D session.
-- 🎨 &nbsp; Illustration can be found <a href="https://storyset.com/communication">here</a>.
+- 💡 &nbsp; During my downtime, I travel as much as possible, listen to podcasts, pick up hobbies like cross stitching, play cozy video games, paddleboard, and nerd out at a weekly D&D session.
 
 </div>
 </div>
@@ -31,12 +28,12 @@
 <tr>
 <td>
 <a href="https://github.com/andiedoescode/andiedoescode">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=andiedoescode&theme=vue-dark&show_icons=true&hide=stars&count_private=true">
+<img align="center" src="https://github-readme-stats-iota-wheat-64.vercel.app/api?username=andiedoescode&theme=vue-dark&show_icons=true&hide=stars&hide_rank=true&custom_title=GitHub&nbsp;Stats">
 </a>
 </td>
 <td>
 <a href="https://github.com/andiedoescode/andiedoescode">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andiedoescode&layout=compact&theme=vue-dark&hide=scss">
+<img align="center" src="https://github-readme-stats-iota-wheat-64.vercel.app/api/top-langs/?username=andiedoescode&layout=compact&theme=vue-dark&hide=scss">
 </a>
 </td>
 </tr>
